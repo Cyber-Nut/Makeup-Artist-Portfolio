@@ -1,0 +1,14 @@
+Photos in use (resized copies of your WhatsApp photos; originals moved to images/originals/):
+  party-01..09.jpg   sequin-gown party glam
+  themed-01..03.jpg  festive red glam shoot
+  reel-01.mp4 (+ reel-01-poster.jpg)
+
+Still placeholders. Add these names and they appear automatically:
+  service-bridal.jpg     full bridal look (big feature card)
+  service-haldi.jpg
+  service-mehendi.jpg
+  shivangi.jpg           Shivangi herself, mid-work, natural light
+  before-01.jpg + after-01.jpg  then remove "hidden" from the before/after section in index.html
+
+Gallery: add a <figure class="ph look" data-cat="bridal|haldi|mehendi|party|themed"> line in index.html
+per new photo. Filter buttons only appear for categories that have photos.
